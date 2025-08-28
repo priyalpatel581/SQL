@@ -1,16 +1,12 @@
 # 🎵 GL Beats Case Study
 
+
 ## 📌 Business Context
-GL-Beats is a music-based startup that recently started selling music records online in multiple countries.  
-The executives at GL-Beats want to conduct a performance review and need recommendations on:  
+GL-Beats is a music-based startup that recently started selling music records online in multiple countries. The executives at GL-Beats want to conduct a performance review and need recommendations on:  
 
 - Which **music genres** should be recommended to customers?  
 - Which **artists** should be contracted within specific countries based on their popularity?  
 
----
 
 ## 🎯 Objective
-As data analysts, our goal is to:  
-- Explore the dataset using SQL queries  
-- Answer management’s business questions  
-- Provide actionable insights that support decision-making  
+As data scientists, our objective is to explore the available data by writing basic SQL queries and becoming familiar with the dataset. Additionally, we aim to answer the key business questions posed by top management, providing insights that can drive strategic decision-making. 
