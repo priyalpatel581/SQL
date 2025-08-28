@@ -12,6 +12,11 @@ GL-Beats is a music-based startup that recently started selling music records on
 As data scientists, our objective is to explore the available data by writing basic SQL queries and becoming familiar with the dataset. Additionally, we aim to answer the key business questions posed by top management, providing insights that can drive strategic decision-making. 
 
 
+## 🗂️ Database Schema (ERD)
+Below is the Entity Relationship Diagram (ERD) for the GL-Beats database:
+<img width="1312" height="775" alt="image" src="https://github.com/user-attachments/assets/bbaa1ef3-cdfa-48ad-8927-c404f56bfad3" />
+
+
 ## 📚 SQL Concepts Used
 1. **Introduction to Databases and SQL**  
    - Understanding database schema & tables  
