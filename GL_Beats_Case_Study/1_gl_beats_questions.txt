@@ -1,4 +1,4 @@
-MLS 1 - Questions to be answered
+
 
 1. How to retrieve all the rows of data present in our table album?
 
@@ -43,5 +43,6 @@ MLS 1 - Questions to be answered
 21. Write a query to retrieve number of invoices in each city from invoice table in descending order.
 
 22. Write a query to get the revenue generated in each city from invoice table in descending order of cities.
+
 
 23. Write a query to get the number of customers for each country that have number of customers more than 5 from customers table.
